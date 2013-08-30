@@ -1,4 +1,0 @@
-git-learn
-=========
-
-learning git
